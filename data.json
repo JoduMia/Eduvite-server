@@ -1,0 +1,51 @@
+[
+    {
+      "id": "01",
+      "name": "Engineering",
+      "title": "Faculty of Engineering and technology",
+      "img_url": "https://thumbs.dreamstime.com/b/engineer-businessman-handshake-construction-site-smiling-shaking-hands-happy-architect-cheerful-african-164999718.jpg",
+      "details": "According to the nature of a project, engineering studies will include all or part of the following steps and all these activities are covered and fully managed within IPEC engineering technology are not always obvious. There is a great deal of overlap between the two fields of study. At Wayne State both types of engineering programs have a strong emphasis on math and science, especially physics and calculus. While topics of core classes in both programs seem similar, engineering technology classes will emphasize the application of engineering techniques"
+    },
+    {
+      "id": "02",
+      "name": "Applied Science",
+      "title": "Faculty of Applied science  and technology",
+      "img_url": "https://media.istockphoto.com/photos/scientist-using-pipette-in-research-laboratory-picture-id487041629?k=20&m=487041629&s=612x612&w=0&h=cyxv3m87xpO2jXyq_WYglbJQxI-zfwi1pjARbPbNQYU=",
+      "details": "Engineering technology is the practical application of science and engineering to a wide range of real world problem he differences between engineering and engineering technology are not always obvious. There is a great deal of overlap between the two fields of study. At Wayne State both types of engineering programs have a strong emphasis on math and science, especially physics and calculus. While topics of core classes in both programs seem similar, engineering technology classes will emphasize the application of engineering techniques"
+    },
+    {
+      "id": "03",
+      "name": "Arts and Social",
+      "title": "Faculty o Applied Science and technology",
+      "img_url": "https://st2.depositphotos.com/1526816/7808/v/600/depositphotos_78088506-stock-illustration-kids-and-globe.jpg",
+      "details": "A professional engineering technologist's job responsibilities require technical and practical knowledge. They can apply their abilities in using technical equipment, selling technical products, serving as manufacturers' technical representatives, or supervising varied construction projects and manufacturing processes."
+    },
+    {
+      "id": "04",
+      "name": "Business Studies",
+      "title": "Faculty of Business Studies and technology",
+      "img_url": "https://play-lh.googleusercontent.com/H_vB0F-uNeAM5EWnlS65durhMPgW5H3YLqCIXFzLhwbrp3zlPRApKxLeSFE5fPI5Vpzh",
+      "details": "Basic business studies provides an introduction to business in the fields of management and leadership, accounting, marketing, communication and entrepreneurship. The students acquire knowledge, skills and attitudes for understanding business issues from different perspectives and in different environments.Basic business studies provides an introduction to business in the fields of management and leadership, accounting, marketing, communication and entrepreneurship. The students acquire knowledge, skills and attitudes for understanding business issues from different perspectives and in different environments."
+    },
+    {
+      "id": "05",
+      "name": "Health Science",
+      "title": "Faculty of Health Science and technology",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwAMNb6Ig0A9CCt1l48GruQggADIsXbQJB1g31woz&s",
+      "details": "Health Sciences is the study of improving healthcare systems and policies with knowledge from STEM disciplines: Science, Technology, Engineering, and Mathematics. In other words, Health Sciences looks at the latest discoveries in these areas and tries to apply them for medical purposes. The results are more efficient healthcare institutions, improved reliability of medical devices and systems, well-implemented emergency plans, and so on.Health Sciences is a broad discipline. This is why not all programmes have the same academic goals. Certain degrees focus more on Nutrition Sciences, others on Exercise Sciences, and the list of examples can go on. What students need to know is that Health Sciences is the ideal choice if they want to make a difference in healthcare provision at the administration or policy level."
+    },
+    {
+      "id": "06",
+      "name": "Biological Science",
+      "title": "Faculty of Biological Science and technology",
+      "img_url": "https://media.istockphoto.com/photos/biotechnology-picture-id169999232?k=20&m=169999232&s=612x612&w=0&h=ZGZ2j20FawbKZdqtMJRAuZe1MAsn5KzliWyQiQA7kH4=",
+      "details": "Biotechnology is the branch of applied science that uses living organisms and their derivatives to produce products and processes. These products and processes feature in healthcare, medicine, biofuels, and environmental safety.At its simplest, biotechnology is technology based on biology - biotechnology harnesses cellular and biomolecular processes to develop technologies"
+    },
+    {
+      "id": "07",
+      "name": "Information science",
+      "title": "Faculty of information science",
+      "img_url": "https://t3.ftcdn.net/jpg/04/34/45/86/360_F_434458653_dMDMTN1VpeBxEHuOtlS0esEztiSVVQ9y.jpg",
+      "details": "Information technology (IT) is a broad professional category covering functions including building communications networks, safeguarding data and information, and troubleshooting computer problems.While many aspects of this technology are uncertain, it seems clear that it will move into the managerial scene rapidly, with definite and far-reaching impact on managerial organization"
+    }
+  ]
